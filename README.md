@@ -71,15 +71,12 @@ This project demonstrates my skills in building **end-to-end web applications**,
 
 ### Home Page
 <img src="my-app/images/homepage.png" alt="Home Page" width="600">
-![Home Page](my-app/images/homepage.png)
 
 ### Product List
-<img src="my-app/images/homepage.png" alt="Home Page" width="600">
-![Product List](my-app/images/product-list.png)
+<img src="my-app/images/product-list.png" alt="Home Page" width="600">
 
 ### Login
-<img src="my-app/images/homepage.png" alt="Home Page" width="200">
-![Login](my-app/images/login.png)
+<img src="my-app/images/login.png" alt="Home Page" width="200">
 
 ---
 
