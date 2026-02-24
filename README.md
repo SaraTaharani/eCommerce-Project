@@ -70,13 +70,13 @@ This project demonstrates my skills in building **end-to-end web applications**,
 ## Screenshots
 
 ### Home Page
-![Home Page](images/homepage.png)
+![Home Page](my-app/images/homepage.png)
 
 ### Product List
-![Product List](images/product-list.png)
+![Product List](my-app/images/product-list.png)
 
 ### Login
-![Login](images/login.png)
+![Login](my-app/images/login.png)
 
 ---
 
