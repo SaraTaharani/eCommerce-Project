@@ -76,7 +76,7 @@ This project demonstrates my skills in building **end-to-end web applications**,
 ![Product List](images/product-list.png)
 
 ### Login
-![Product Details](images/login.png)
+![Login](images/login.png)
 
 ---
 
