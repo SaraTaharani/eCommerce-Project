@@ -40,20 +40,16 @@ This project demonstrates my skills in building **end-to-end web applications**,
    git clone https://github.com/SaraTaharani/eCommerce-Project.git
 
 2. Navigate to the project folder:
-   ```bash
-cd my-app
+   ```bash cd my-app
 
 3. Install dependencies:
-   ```bash
-npm install
+   ```bash npm install
 
 4. Generate Prisma client:
-   ```bash
-npx prisma generate
+   ```bash npx prisma generate
 
 5. Run the development server:
-   ```bash
-npm run dev
+   ```bash npm run dev
 
 6. Open http://localhost:3000
  in your browser
