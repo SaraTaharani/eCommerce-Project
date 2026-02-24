@@ -57,3 +57,33 @@ This project demonstrates my skills in building **end-to-end web applications**,
 
 6. Open http://localhost:3000
  in your browser
+
+## Notes
+
+- Backend fully integrated with Prisma
+- Authentication handled by NextAuth
+- Database schema defined in `prisma/schema.prisma`
+- Currently includes full frontend + backend; future enhancements may include additional features like cart/checkout workflows
+
+---
+
+## Screenshots
+
+### Home Page
+![Home Page](images/homepage.png)
+
+### Product List
+![Product List](images/product-list.png)
+
+### Login
+![Product Details](images/login.png)
+
+---
+
+## Learnings & Skills Demonstrated
+
+- Full-stack development with modern frameworks
+- End-to-end API integration
+- User authentication & role management
+- Database modeling and ORM usage
+- Responsive frontend design and UX
